@@ -1,4 +1,4 @@
-d# Code Along: Building the `find` method 
+# Code Along: Building the `find` method 
 
 ##Objectives
 * Continue to practice using yield and blocks
